@@ -1,12 +1,5 @@
-```
- _       _
-(_)_ __ | |_ ___  __ _  ___ _ __      _ ____      ___ __
-| | '_ \| __/ _ \/ _` |/ _ \ '__|____| '_ \ \ /\ / / '_ \
-| | | | | ||  __/ (_| |  __/ | |_____| |_) \ V  V /| | | |
-|_|_| |_|\__\___|\__, |\___|_|       | .__/ \_/\_/ |_| |_|
-                 |___/               |_|
-
-```
+### integer-pwn
+---
 This tool was designed with the sole purpose of helping you calculate two types of vulnerabilities.
 
  1. Integer Overflows/Underflow Vulnerabilities
