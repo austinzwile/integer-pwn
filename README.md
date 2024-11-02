@@ -4,7 +4,8 @@
 > | | | | | ||  __/ (_| |  __/ | |_____| |_) \ V  V /| | | |
 > |_|_| |_|\__\___|\__, |\___|_|       | .__/ \_/\_/ |_| |_|
 >                  |___/               |_|
----
+
+
 This tool was designed with the sole purpose of helping you calculate two types of vulnerabilities.
 
  1. Integer Overflows/Underflow Vulnerabilities
